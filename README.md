@@ -25,18 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeAnhTuanIT&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeAnhTuanIT&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌍 Connect with me
 
 <p align="left">
