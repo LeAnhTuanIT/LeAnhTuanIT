@@ -140,8 +140,6 @@ const AnhTuan = {
 
 <div align="center">
 
-### 📈 &nbsp; Contribution Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeAnhTuanIT&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Activity Graph" />
 
 </div>
@@ -149,8 +147,6 @@ const AnhTuan = {
 <!-- ══════════════════════════ SNAKE GAME ══════════════════════════ -->
 
 <div align="center">
-
-### 🐍 &nbsp; Watch the Snake Eat My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/github-snake-dark.svg" />
