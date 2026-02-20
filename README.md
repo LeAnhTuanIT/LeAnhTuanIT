@@ -9,6 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=80&lines=%E2%96%B8+Passionate+Fullstack+Developer;%E2%96%B8+Building+AI-enhanced+applications;%E2%96%B8+Lover+of+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
+<br/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Role-Fullstack_Developer-58a6ff?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Location-Ho_Chi_Minh_City-58a6ff?style=flat-square&labelColor=0d1117" />
@@ -34,7 +37,7 @@ const AnhTuan = {
   languages: ["TypeScript", "JavaScript", "Python"],
   architecture: ["Microservices", "Event-Driven", "REST", "GraphQL"],
   currentFocus: "AI-enhanced web applications",
-  funFact: "I mass-produce features & mass-debug at 2 AM"
+  funFact: "I mass-produce features & mass-debug at 2 AM",
 };
 ```
 
@@ -48,9 +51,9 @@ const AnhTuan = {
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" /> &nbsp; GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="100%" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=86400" width="100%" alt="Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeAnhTuanIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeAnhTuanIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=86400" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
@@ -59,7 +62,7 @@ const AnhTuan = {
 <!-- ══════════════════════════ STREAK STATS ══════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeAnhTuanIT&theme=tokyonight&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=tokyonight&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" alt="Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -211,45 +214,3 @@ const AnhTuan = {
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:0d1117,100:0a0a0a&height=1&section=footer" width="100%" />
-
----
-
-<!-- ══════════════════════════ SNAKE SETUP ══════════════════════════ -->
-
-<details>
-<summary><strong>🐍 Snake Game Setup Instructions</strong></summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: LeAnhTuanIT
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions** tab and run it manually.
-
-</details>
