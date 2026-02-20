@@ -1,21 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:0d1117,100:161b22&height=1&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Anh%20Tu%E1%BA%A5n&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descSize=18&descAlignY=55&descColor=A9FEF7" width="100%" />
 
 <div align="center">
 
 <!-- ══════════════════════════ HERO SECTION ══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=120&section=header&text=%E2%9A%A1%20Anh%20Tu%E1%BA%A5n&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=50" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=80&lines=%E2%96%B8+Passionate+Fullstack+Developer;%E2%96%B8+Building+AI-enhanced+applications;%E2%96%B8+Lover+of+Scalable+Systems" alt="Typing SVG" />
-
-<br/>
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Passionate+Fullstack+Developer+%F0%9F%94%A5;Building+AI-enhanced+Applications+%F0%9F%A7%A0;Lover+of+Scalable+Systems+%F0%9F%9A%80;Clean+Code+%E2%80%A2+Best+Practices+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Role-Fullstack_Developer-58a6ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Location-Ho_Chi_Minh_City-58a6ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Focus-AI_&_Microservices-58a6ff?style=flat-square&labelColor=0d1117" />
+<a href="mailto:anhtuan.develops.vn@gmail.com"><img src="https://img.shields.io/badge/Email-anhtuan.develops.vn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/leanhtuan-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anh_Tuấn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/LeAnhTuanIT" target="_blank"><img src="https://img.shields.io/badge/GitHub-LeAnhTuanIT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
