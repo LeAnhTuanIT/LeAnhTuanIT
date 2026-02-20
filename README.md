@@ -18,48 +18,31 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ══════════════════════════ DASHBOARD: ABOUT + STATS ══════════════════════════ -->
+<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### &nbsp; About Me
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" /> &nbsp; About Me
+- 🔭 Currently working as a **Fullstack Developer at MiniAI**
+- 🌱 Learning **AI Integration, Cloud Architecture & Advanced DevOps**
+- 🧠 Expertise in **React, Node.js, TypeScript, Microservices**
+- 🎯 Goal: **Build scalable, impactful products that solve real problems**
+- 💬 Ask me about **Web Development, System Design, CI/CD Pipelines**
+- ⚡ Fun fact: I mass-produce features & mass-debug at 2 AM
 
-```ts
-const AnhTuan = {
-  role: "Fullstack Developer",
-  location: "Ho Chi Minh City, VN",
-  company: "MiniAI",
-  languages: ["TypeScript", "JavaScript", "Python"],
-  architecture: ["Microservices", "Event-Driven", "REST", "GraphQL"],
-  currentFocus: "AI-enhanced web applications",
-  funFact: "I mass-produce features & mass-debug at 2 AM",
-};
-```
-
-- **`> Working`** &nbsp; Fullstack Developer @ **MiniAI**
-- **`> Learning`** &nbsp; AI Integration, Cloud Architecture
-- **`> Building`** &nbsp; Scalable systems that impact real users
-- **`> Ask me`** &nbsp;&nbsp;&nbsp; System Design, Web Dev, CI/CD
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" /> &nbsp; GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=86400" width="100%" alt="Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeAnhTuanIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=86400" width="100%" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<!-- ══════════════════════════ STREAK STATS ══════════════════════════ -->
+<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=tokyonight&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" alt="Streak Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeAnhTuanIT&theme=github_dark" width="95%" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeAnhTuanIT&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=github-dark-blue&hide_border=true" width="55%" alt="Streak Stats" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
