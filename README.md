@@ -133,6 +133,22 @@ const anhTuan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- ══════════════════════════ RANDOM QUOTE ══════════════════════════ -->
+
+<div align="center">
+
+### 💬 &nbsp;Random Dev Quote
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%" />
+
+<sub>↻ Refresh page for a new quote</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- ══════════════════════════ CONNECT ══════════════════════════ -->
 
 <div align="center">
@@ -158,11 +174,6 @@ const anhTuan = {
 <img src="https://img.shields.io/github/followers/LeAnhTuanIT?style=flat-square&color=A9FEF7&labelColor=0d1117" alt="Followers" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/stars/LeAnhTuanIT?style=flat-square&color=A9FEF7&labelColor=0d1117&affiliations=OWNER" alt="Stars" />
-
-<br/><br/>
-
-> _"Any fool can write code that a computer can understand._
-> _Good programmers write code that humans can understand."_ — **Martin Fowler**
 
 </div>
 
