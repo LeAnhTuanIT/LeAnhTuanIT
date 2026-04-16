@@ -81,7 +81,7 @@ const anhTuan = {
 
 ### 🏆 &nbsp;Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies" />
 
 </div>
 
