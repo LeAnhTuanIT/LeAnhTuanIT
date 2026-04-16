@@ -28,6 +28,31 @@ const anhTuan = {
 };
 ```
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-A9FEF7?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Lives-Vietnam-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Langs-English%20%26%20Vietnamese-ff6b6b?style=flat-square&labelColor=0d1117" />
+
+</div>
+
+<!-- ══════════════════════════ FUN PROJECTS ══════════════════════════ -->
+
+<details>
+<summary><b>💝 Fun side projects I built for special occasions</b></summary>
+<br/>
+<div align="center">
+
+<a href="https://github.com/LeAnhTuanIT/love">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeAnhTuanIT&repo=love&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=ff6b6b" alt="love" />
+</a>
+<a href="https://github.com/LeAnhTuanIT/happy-8-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeAnhTuanIT&repo=happy-8-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=ff6b6b" alt="happy-8-3" />
+</a>
+
+</div>
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
@@ -128,6 +153,42 @@ const anhTuan = {
 </picture>
 
 <sub>🔄 Updates daily</sub>
+
+</div>
+
+<!-- ══════════════════════════ HOROSCOPE ══════════════════════════ -->
+
+<div align="center">
+
+### 🔮 &nbsp;Daily Developer Horoscope
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/horoscope-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/horoscope.svg" />
+  <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/horoscope.svg" alt="Dev Horoscope" />
+</picture>
+
+<sub>🔄 New horoscope every day!</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ══════════════════════════ FUN STATS ══════════════════════════ -->
+
+<div align="center">
+
+### ⚡ &nbsp;Fun Stats
+
+<br/>
+
+<img src="https://img.shields.io/badge/☕%20Coffee%20consumed-9999+-A9FEF7?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🐛%20Bugs%20squashed-∞-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/⌨️%20Keystrokes-too%20many-58a6ff?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🕐%20Best%20time-2AM-f9ca24?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 

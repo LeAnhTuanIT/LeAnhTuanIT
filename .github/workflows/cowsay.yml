@@ -1,4 +1,4 @@
-name: Generate Cowsay
+name: Generate Daily Content
 
 on:
     schedule:
@@ -24,6 +24,9 @@ jobs:
             - name: Generate Joke SVG
               run: python .github/scripts/joke.py
 
+            - name: Generate Horoscope SVG
+              run: python .github/scripts/horoscope.py
+
             - name: Deploy to output branch
               run: |
                   REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
@@ -35,6 +38,6 @@ jobs:
                   git config user.name "github-actions[bot]"
                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                   git add -A
-                  git diff --cached --quiet || (git commit -m "Update cowsay & joke SVGs" && git push "$REPO" output)
+                  git diff --cached --quiet || (git commit -m "Update daily content SVGs" && git push "$REPO" output)
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
