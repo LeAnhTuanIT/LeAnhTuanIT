@@ -120,6 +120,22 @@
 
 </div>
 
+<!-- ══════════════════════════ COWSAY ══════════════════════════ -->
+
+<div align="center">
+
+### 🐄 &nbsp; Daily Dev Quote
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay.svg" />
+  <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay.svg" alt="Cowsay" />
+</picture>
+
+<sub>🔄 Updates daily with a new programming quote!</sub>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ══════════════════════════ CONNECT ══════════════════════════ -->
