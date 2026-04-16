@@ -8,24 +8,29 @@ on:
 permissions:
     contents: write
 
-env:
-    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
+            - uses: actions/checkout@v6
 
-            - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+            - uses: yoshi389111/github-profile-3d-contrib@0.9.2
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   USERNAME: LeAnhTuanIT
 
-            - uses: peaceiris/actions-gh-pages@v4
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_branch: output
-                  publish_dir: profile-3d-contrib
-                  destination_dir: 3d-contrib
-                  keep_files: true
+            - name: Deploy to output branch
+              run: |
+                  REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+                  git clone --single-branch --branch output "$REPO" deploy 2>/dev/null || {
+                    mkdir deploy && cd deploy && git init && git checkout --orphan output && cd ..
+                  }
+                  mkdir -p deploy/3d-contrib
+                  cp profile-3d-contrib/* deploy/3d-contrib/
+                  cd deploy
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add -A
+                  git diff --cached --quiet || (git commit -m "Update 3D contribution graph" && git push "$REPO" output)
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

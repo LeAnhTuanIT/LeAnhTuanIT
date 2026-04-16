@@ -8,16 +8,13 @@ on:
 permissions:
     contents: write
 
-env:
-    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
+            - uses: actions/checkout@v6
 
-            - uses: actions/setup-python@v5
+            - uses: actions/setup-python@v6
               with:
                   python-version: "3.x"
 
@@ -27,9 +24,17 @@ jobs:
             - name: Generate Joke SVG
               run: python .github/scripts/joke.py
 
-            - uses: peaceiris/actions-gh-pages@v4
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_branch: output
-                  publish_dir: dist
-                  keep_files: true
+            - name: Deploy to output branch
+              run: |
+                  REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+                  git clone --single-branch --branch output "$REPO" deploy 2>/dev/null || {
+                    mkdir deploy && cd deploy && git init && git checkout --orphan output && cd ..
+                  }
+                  cp dist/* deploy/
+                  cd deploy
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add -A
+                  git diff --cached --quiet || (git commit -m "Update cowsay & joke SVGs" && git push "$REPO" output)
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
