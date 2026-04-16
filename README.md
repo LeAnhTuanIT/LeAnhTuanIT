@@ -124,8 +124,6 @@
 
 <div align="center">
 
-### 🐄 &nbsp; Daily Dev Quote
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay.svg" />
