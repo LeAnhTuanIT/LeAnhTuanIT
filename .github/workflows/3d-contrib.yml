@@ -1,8 +1,8 @@
-name: Generate Cowsay
+name: Generate 3D Contribution
 
 on:
     schedule:
-        - cron: "30 0 * * *"
+        - cron: "15 0 * * *"
     workflow_dispatch:
 
 permissions:
@@ -17,19 +17,15 @@ jobs:
         steps:
             - uses: actions/checkout@v4
 
-            - uses: actions/setup-python@v5
-              with:
-                  python-version: "3.x"
-
-            - name: Generate Cowsay SVG
-              run: python .github/scripts/cowsay.py
-
-            - name: Generate Joke SVG
-              run: python .github/scripts/joke.py
+            - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  USERNAME: LeAnhTuanIT
 
             - uses: peaceiris/actions-gh-pages@v4
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_branch: output
-                  publish_dir: dist
+                  publish_dir: profile-3d-contrib
+                  destination_dir: 3d-contrib
                   keep_files: true

@@ -45,6 +45,16 @@
 
 </div>
 
+<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
+
+<div align="center">
+
+### 🏆 &nbsp; GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies" />
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
@@ -108,6 +118,20 @@
 
 </div>
 
+<!-- ══════════════════════════ 3D CONTRIBUTION ══════════════════════════ -->
+
+<div align="center">
+
+### 🧊 &nbsp; 3D Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="95%" />
+</picture>
+
+</div>
+
 <!-- ══════════════════════════ SNAKE GAME ══════════════════════════ -->
 
 <div align="center">
@@ -131,6 +155,22 @@
 </picture>
 
 <sub>🔄 Updates daily with a new programming quote!</sub>
+
+</div>
+
+<!-- ══════════════════════════ DEV JOKE ══════════════════════════ -->
+
+<div align="center">
+
+### 😂 &nbsp; Daily Dev Joke
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke.svg" />
+  <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke.svg" alt="Dev Joke" />
+</picture>
+
+<sub>🔄 New joke every day!</sub>
 
 </div>
 
