@@ -22,66 +22,62 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b6b,50:A9FEF7,100:58a6ff&height=45&section=header&text=⚡%20ABOUT%20ME&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
 
-<table>
-<tr>
-<td width="50%">
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1ZHRwcG9yYXE2cGRobjc0YjB3NWR1eDVzcnI2Z29meTFkNWpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
-
-```yaml
-name: Le Anh Tuan
-located_in: Ho Chi Minh City, Vietnam
-current_job: Fullstack Developer @ MiniAI
-
-education:
-  - "Computer Science"
-
-fields_of_interest:
-  - "AI Integration & LLM Agents"
-  - "Cloud Architecture"
-  - "System Design"
-  - "Microservices"
-
-currently_learning:
-  - "Advanced DevOps & K8s"
-  - "LLM & AI Agents"
-
-2025_mass_goals:
-  - "Build impactful AI products"
-  - "Contribute to open source"
-  - "Help developers grow"
-
-fun_fact: >
-  I mass-produce features &
-  mass-debug at 2 AM ☕
-```
-
-</td>
-<td width="50%">
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A9FEF7&icon_color=ff6b6b&text_color=c9d1d9&ring_color=A9FEF7&rank_icon=percentile&include_all_commits=true" width="100%" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=transparent&hide_border=true&ring=A9FEF7&fire=ff6b6b&currStreakLabel=A9FEF7&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="100%" alt="Streak Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeAnhTuanIT&layout=donut&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A9FEF7&text_color=c9d1d9&langs_count=8" width="75%" alt="Top Languages" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1ZHRwcG9yYXE2cGRobjc0YjB3NWR1eDVzcnI2Z29meTFkNWpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </div>
-
-</td>
-</tr>
-</table>
-
-<!-- ══════════════════════════ WHAT IM UP TO ══════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6c5ce7,50:a29bfe,100:A9FEF7&height=45&section=header&text=🔭%20WHAT%20I'M%20UP%20TO&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <br/>
 
-|  | Currently | Learning | Looking For |
-|:---:|:---:|:---:|:---:|
-| <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Building AI-powered apps @ **MiniAI** | <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="20"> LLMs, K8s, Advanced DevOps | Open source collabs & cool projects |
+```js
+const anhTuan = {
+    location:  "Ho Chi Minh City, Vietnam 🇻🇳",
+    role:      "Fullstack Developer @ MiniAI",
+    code:      ["TypeScript", "JavaScript", "Python", "Java", "PHP"],
+    focus:     ["AI Integration", "Cloud Architecture", "System Design", "Microservices"],
+    learning:  ["LLM & AI Agents", "Advanced DevOps & K8s"],
+    goal:      "Build scalable, impactful products that solve real problems",
+    funFact:   "I mass-produce features & mass-debug at 2 AM ☕"
+};
+```
+
+<!-- ══════════════════════════ STATS ══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6c5ce7,50:a29bfe,100:A9FEF7&height=45&section=header&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A9FEF7&icon_color=ff6b6b&text_color=c9d1d9&ring_color=A9FEF7&rank_icon=percentile&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=transparent&hide_border=true&ring=A9FEF7&fire=ff6b6b&currStreakLabel=A9FEF7&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="49%" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeAnhTuanIT&theme=github_dark" width="95%" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeAnhTuanIT&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time" />
+
+</div>
+
+<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/-🏆%20TROPHY%20CABINET-f9ca24?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies" />
 
 </div>
 
@@ -172,40 +168,6 @@ fun_fact: >
 
 </div>
 
-<!-- ══════════════════════════ GITHUB METRICS ══════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58a6ff,50:A9FEF7,100:6c5ce7&height=45&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeAnhTuanIT&theme=github_dark" width="95%" alt="Profile Details" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeAnhTuanIT&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time" />
-
-</div>
-
-<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/-🏆%20TROPHY%20CABINET-f9ca24?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies" />
-
-</div>
-
 <!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
@@ -231,9 +193,9 @@ fun_fact: >
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-green-animate.svg" />
-  <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
 </picture>
 
 </div>
