@@ -1,47 +1,194 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Anh%20Tu%E1%BA%A5n&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descSize=18&descAlignY=55&descColor=A9FEF7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,25:ee5a24,50:A9FEF7,75:58a6ff,100:6c5ce7&height=300&section=header&text=Anh%20Tu%E1%BA%A5n&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Fullstack%20Developer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=A9FEF7&stroke=A9FEF7&strokeWidth=2" width="100%" />
 
 <div align="center">
 
-<!-- ══════════════════════════ HERO SECTION ══════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Passionate+Fullstack+Developer+%F0%9F%94%A5;Building+AI-enhanced+Applications+%F0%9F%A7%A0;Lover+of+Scalable+Systems+%F0%9F%9A%80;Clean+Code+%E2%80%A2+Best+Practices+%E2%9C%A8" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+console.log(%22Hello+World!%22);+%E2%9A%A1;%F0%9F%94%A5+Crafting+Scalable+Digital+Experiences;%F0%9F%A7%A0+AI-Powered+Fullstack+Engineering;%F0%9F%9A%80+From+Concept+to+Production+at+Speed)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:anhtuan.develops.vn@gmail.com"><img src="https://img.shields.io/badge/Email-anhtuan.develops.vn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anhtuan.develops.vn@gmail.com"><img src="https://img.shields.io/badge/Gmail-anhtuan.develops.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/leanhtuan-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anh_Tuấn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/leanhtuan-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anh_Tuấn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://github.com/LeAnhTuanIT" target="_blank"><img src="https://img.shields.io/badge/GitHub-LeAnhTuanIT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://x.com/1eanhtuan1t" target="_blank"><img src="https://img.shields.io/badge/X-@1eanhtuan1t-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://github.com/LeAnhTuanIT" target="_blank"><img src="https://img.shields.io/badge/GitHub-LeAnhTuanIT-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 
-### &nbsp; About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
 
-- 🔭 Currently working as a **Fullstack Developer at MiniAI**
-- 🌱 Learning **AI Integration, Cloud Architecture & Advanced DevOps**
-- 🧠 Expertise in **React, Node.js, TypeScript, Microservices**
-- 🎯 Goal: **Build scalable, impactful products that solve real problems**
-- 💬 Ask me about **Web Development, System Design, CI/CD Pipelines**
-- ⚡ Fun fact: I mass-produce features & mass-debug at 2 AM
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b6b,50:A9FEF7,100:58a6ff&height=45&section=header&text=⚡%20ABOUT%20ME&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
 
-<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
+<table>
+<tr>
+<td width="50%">
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1ZHRwcG9yYXE2cGRobjc0YjB3NWR1eDVzcnI2Z29meTFkNWpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
+
+```yaml
+name: Le Anh Tuan
+located_in: Ho Chi Minh City, Vietnam
+current_job: Fullstack Developer @ MiniAI
+
+education:
+  - "Computer Science"
+
+fields_of_interest:
+  - "AI Integration & LLM Agents"
+  - "Cloud Architecture"
+  - "System Design"
+  - "Microservices"
+
+currently_learning:
+  - "Advanced DevOps & K8s"
+  - "LLM & AI Agents"
+
+2025_mass_goals:
+  - "Build impactful AI products"
+  - "Contribute to open source"
+  - "Help developers grow"
+
+fun_fact: >
+  I mass-produce features &
+  mass-debug at 2 AM ☕
+```
+
+</td>
+<td width="50%">
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A9FEF7&icon_color=ff6b6b&text_color=c9d1d9&ring_color=A9FEF7&rank_icon=percentile&include_all_commits=true" width="100%" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=transparent&hide_border=true&ring=A9FEF7&fire=ff6b6b&currStreakLabel=A9FEF7&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="100%" alt="Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeAnhTuanIT&layout=donut&theme=github_dark&hide_border=true&bg_color=00000000&title_color=A9FEF7&text_color=c9d1d9&langs_count=8" width="75%" alt="Top Languages" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════ WHAT IM UP TO ══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeAnhTuanIT&theme=github_dark" width="95%" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeAnhTuanIT&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6c5ce7,50:a29bfe,100:A9FEF7&height=45&section=header&text=🔭%20WHAT%20I'M%20UP%20TO&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=github-dark-blue&hide_border=true" width="55%" alt="Streak Stats" />
+|  | Currently | Learning | Looking For |
+|:---:|:---:|:---:|:---:|
+| <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Building AI-powered apps @ **MiniAI** | <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="20"> LLMs, K8s, Advanced DevOps | Open source collabs & cool projects |
+
+</div>
+
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b6b,50:ee5a24,100:f9ca24&height=45&section=header&text=🛠️%20TECH%20ARSENAL&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
+
+<div align="center">
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%8E%A8%20FRONTEND-A9FEF7?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark&perline=4" />
+
+<br/><br/>
+
+![React](https://img.shields.io/badge/React-★★★★★-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-★★★★★-000?style=flat-square&logo=nextdotjs&logoColor=fff&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★★-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1117)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20BACKEND-58a6ff?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,laravel,python,graphql&theme=dark&perline=4" />
+
+<br/><br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-★★★★★-339933?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=0d1117)
+![NestJS](https://img.shields.io/badge/NestJS-★★★★★-E0234E?style=flat-square&logo=nestjs&logoColor=E0234E&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20DATABASE%20%26%20QUEUE-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,kafka,rabbitmq&theme=dark&perline=3" />
+
+<br/><br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★★★-4169E1?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-47A248?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0d1117)
+![Redis](https://img.shields.io/badge/Redis-★★★★☆-DC382D?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0d1117)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20%26%20DEVOPS-6c5ce7?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,nginx,linux,git&theme=dark&perline=3" />
+
+<br/><br/>
+
+![Docker](https://img.shields.io/badge/Docker-★★★★★-2496ED?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0d1117)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-★★★★★-2088FF?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-★★★★☆-FCC624?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-%F0%9F%A7%B0%20TOOLS%20I%20USE%20DAILY-A9FEF7?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,github,stackoverflow&theme=dark&perline=6" />
+
+</div>
+
+<!-- ══════════════════════════ GITHUB METRICS ══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58a6ff,50:A9FEF7,100:6c5ce7&height=45&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeAnhTuanIT&theme=github_dark" width="95%" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeAnhTuanIT&theme=github_dark" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeAnhTuanIT&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time" />
 
 </div>
 
@@ -49,72 +196,27 @@
 
 <div align="center">
 
-### 🏆 &nbsp; GitHub Trophies
+<br/>
+
+<img src="https://img.shields.io/badge/-🏆%20TROPHY%20CABINET-f9ca24?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
-
-<div align="center">
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" /> &nbsp; Tech Arsenal
-
-</div>
-
-<div align="center">
-
-**`🎨 Frontend`**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-**`⚙️ Backend`**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
-
-**`🗄️ Database & Message Queue`**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=fff)
-![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=bull&logoColor=fff)
-
-**`☁️ Cloud / DevOps`**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A9FEF7,50:58a6ff,100:6c5ce7&height=45&section=header&text=📈%20CONTRIBUTION%20TIMELINE&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeAnhTuanIT&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Activity Graph" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeAnhTuanIT&bg_color=0d1117&color=A9FEF7&line=58a6ff&point=ff6b6b&area_color=A9FEF7&area=true&hide_border=true&radius=16&custom_title=🔥%20My%20Contribution%20Graph" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -122,7 +224,11 @@
 
 <div align="center">
 
-### 🧊 &nbsp; 3D Contribution Graph
+<br/>
+
+<img src="https://img.shields.io/badge/-🧊%203D%20CONTRIBUTION%20MAP-A9FEF7?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/3d-contrib/profile-night-green.svg" />
@@ -134,7 +240,13 @@
 
 <!-- ══════════════════════════ SNAKE GAME ══════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6c5ce7,50:a29bfe,100:ff6b6b&height=45&section=header&text=🐍%20WATCH%20MY%20CONTRIBUTIONS%20GET%20EATEN&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
+
 <div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/github-snake-dark.svg" />
@@ -144,9 +256,19 @@
 
 </div>
 
-<!-- ══════════════════════════ COWSAY ══════════════════════════ -->
+<!-- ══════════════════════════ COWSAY & JOKE ══════════════════════════ -->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f9ca24,50:ee5a24,100:ff6b6b&height=45&section=header&text=😂%20DAILY%20DEV%20HUMOR&fontSize=20&fontColor=0d1117&animation=twinkling" width="100%" />
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h4>🐮 Cowsay of the Day</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay-dark.svg" />
@@ -154,15 +276,12 @@
   <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay.svg" alt="Cowsay" />
 </picture>
 
-<sub>🔄 Updates daily with a new programming quote!</sub>
+<sub>🔄 Fresh quote daily!</sub>
 
-</div>
+</td>
+<td align="center" width="50%">
 
-<!-- ══════════════════════════ DEV JOKE ══════════════════════════ -->
-
-<div align="center">
-
-### 😂 &nbsp; Daily Dev Joke
+<h4>🤣 Dev Joke</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke-dark.svg" />
@@ -172,15 +291,29 @@
 
 <sub>🔄 New joke every day!</sub>
 
-</div>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
+<!-- ══════════════════════════ RANDOM QUOTE ══════════════════════════ -->
 
 <div align="center">
 
-### 🔗 &nbsp; Connect with Me
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler" alt="Dev Quote" />
+
+</div>
+
+<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b6b,25:ee5a24,50:f9ca24,75:A9FEF7,100:58a6ff&height=45&section=header&text=🤝%20LET'S%20CONNECT%20%26%20BUILD%20SOMETHING%20AMAZING&fontSize=18&fontColor=0d1117&animation=twinkling" width="100%" />
+
+<div align="center">
+
+<br/>
 
 <a href="mailto:anhtuan.develops.vn@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -190,34 +323,25 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://github.com/LeAnhTuanIT" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
 <a href="https://x.com/1eanhtuan1t" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+&nbsp;
+<a href="https://github.com/LeAnhTuanIT" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LeAnhTuanIT&style=flat-square&color=58a6ff&labelColor=0d1117&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=LeAnhTuanIT&style=for-the-badge&color=A9FEF7&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/LeAnhTuanIT?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/followers/LeAnhTuanIT?style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/LeAnhTuanIT?style=flat-square&color=58a6ff&labelColor=0d1117&label=Stars&affiliations=OWNER" alt="Stars" />
+<img src="https://img.shields.io/github/stars/LeAnhTuanIT?style=for-the-badge&color=f9ca24&labelColor=0d1117&label=STARS&affiliations=OWNER" alt="Stars" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ══════════════════════════ QUOTE ══════════════════════════ -->
-
-<div align="center">
-
-> _"Any fool can write code that a computer can understand._
-> _Good programmers write code that humans can understand."_
->
-> **— Martin Fowler**
+<img src="https://img.shields.io/badge/💡_If_you_like_my_work,_consider_giving_a_⭐-A9FEF7?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -225,4 +349,4 @@
 
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:0d1117,100:0a0a0a&height=1&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ee5a24,50:A9FEF7,75:58a6ff,100:6c5ce7&height=150&section=footer&animation=twinkling" width="100%" />
