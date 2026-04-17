@@ -28,30 +28,48 @@ const anhTuan = {
 };
 ```
 
+### 💼 &nbsp;What I Bring to the Table
+
+<table>
+<tr>
+<td width="50%">
+
+**🏗️ Fullstack Architecture**
+
+End-to-end web applications — from pixel-perfect UIs with React/Next.js to scalable backend services with NestJS and microservices.
+
+</td>
+<td width="50%">
+
+**🧠 AI Integration**
+
+LLMs and AI capabilities in production apps — AI-enhanced features, chatbots, and intelligent automation workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚡ Performance & Scalability**
+
+Systems that handle real traffic — message queues (Kafka, RabbitMQ), caching (Redis), optimized databases (PostgreSQL, MongoDB).
+
+</td>
+<td width="50%">
+
+**🚀 DevOps & CI/CD**
+
+Docker, GitHub Actions, automated pipelines. Ship fast with confidence.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-A9FEF7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Lives-Vietnam-58a6ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Langs-English%20%26%20Vietnamese-ff6b6b?style=flat-square&labelColor=0d1117" />
+<a href="mailto:anhtuan.develops.vn@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20opportunities-Let's%20Talk-A9FEF7?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" /></a>
 
 </div>
-
-<!-- ══════════════════════════ FUN PROJECTS ══════════════════════════ -->
-
-<details>
-<summary><b>💝 Fun side projects I built for special occasions</b></summary>
-<br/>
-<div align="center">
-
-<a href="https://github.com/LeAnhTuanIT/love">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeAnhTuanIT&repo=love&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=ff6b6b" alt="love" />
-</a>
-<a href="https://github.com/LeAnhTuanIT/happy-8-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeAnhTuanIT&repo=happy-8-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=ff6b6b" alt="happy-8-3" />
-</a>
-
-</div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -59,27 +77,13 @@ const anhTuan = {
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" /> &nbsp;Tech Stack
 
-<br/>
-
-**Frontend**
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
-
-**Backend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,laravel,python,graphql&theme=dark" />
-
-**Database & Queue**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,kafka,rabbitmq&theme=dark" />
-
-**Cloud & DevOps**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,nginx,linux,git&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark" />
 
 </div>
 
@@ -94,33 +98,13 @@ const anhTuan = {
 <img src="https://github-readme-stats.vercel.app/api?username=LeAnhTuanIT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&ring_color=A9FEF7&include_all_commits=true" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=LeAnhTuanIT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=A9FEF7&fire=ff6b6b&currStreakLabel=A9FEF7" width="49%" alt="Streak Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeAnhTuanIT&theme=github_dark" width="98%" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeAnhTuanIT&theme=github_dark" width="32.5%" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeAnhTuanIT&theme=github_dark" width="32.5%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeAnhTuanIT&theme=github_dark&utcOffset=7" width="32.5%" alt="Productive Time" />
-
-</div>
-
-<div align="center">
-
-### 🏆 &nbsp;Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeAnhTuanIT&bg_color=0d1117&color=A9FEF7&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&radius=12" width="98%" alt="Activity Graph" />
 
 <img src="https://github-trophies.vercel.app/?username=LeAnhTuanIT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
-
-### 📈 &nbsp;Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeAnhTuanIT&bg_color=0d1117&color=A9FEF7&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&radius=12" width="98%" alt="Activity Graph" />
-
-</div>
-
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
 
 <div align="center">
 
@@ -134,8 +118,6 @@ const anhTuan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ══════════════════════════ COWSAY & JOKE ══════════════════════════ -->
-
 <div align="center">
 
 <picture>
@@ -143,74 +125,24 @@ const anhTuan = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay.svg" />
   <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/cowsay.svg" alt="Cowsay" />
 </picture>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke.svg" />
   <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/joke.svg" alt="Dev Joke" />
 </picture>
-
-<sub>🔄 Updates daily</sub>
-
-</div>
-
-<!-- ══════════════════════════ HOROSCOPE ══════════════════════════ -->
-
-<div align="center">
-
-### 🔮 &nbsp;Daily Developer Horoscope
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/horoscope-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/horoscope.svg" />
   <img src="https://raw.githubusercontent.com/LeAnhTuanIT/LeAnhTuanIT/output/horoscope.svg" alt="Dev Horoscope" />
 </picture>
 
-<sub>🔄 New horoscope every day!</sub>
+<sub>🔄 Updates daily</sub>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ══════════════════════════ FUN STATS ══════════════════════════ -->
-
-<div align="center">
-
-### ⚡ &nbsp;Fun Stats
-
-<br/>
-
-<img src="https://img.shields.io/badge/☕%20Coffee%20consumed-9999+-A9FEF7?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🐛%20Bugs%20squashed-∞-ff6b6b?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/⌨️%20Keystrokes-too%20many-58a6ff?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🕐%20Best%20time-2AM-f9ca24?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ══════════════════════════ RANDOM QUOTE ══════════════════════════ -->
-
-<div align="center">
-
-### 💬 &nbsp;Random Dev Quote
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%" />
-
-<sub>↻ Refresh page for a new quote</sub>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
 
 <div align="center">
 
