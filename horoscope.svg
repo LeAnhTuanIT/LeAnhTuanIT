@@ -8,14 +8,14 @@
   <rect fill="url(#hgrad)" width="480" height="216" rx="12" stroke="#d0d7de" stroke-width="1"/>
   <text fill="#0969da" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="240" y="38">🔮 Developer Horoscope</text>
   <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="240" y="74">
-    <tspan fill="#4169E1" font-size="20">♍</tspan>
-    <tspan fill="#24292e" font-size="15" font-weight="bold" dx="8">Nhan SQL</tspan>
+    <tspan fill="#FCC624" font-size="20">♉</tspan>
+    <tspan fill="#24292e" font-size="15" font-weight="bold" dx="8">Kim Linux</tspan>
   </text>
   <line x1="28" y1="90" x2="452" y2="90" stroke="#0969da" stroke-width="1" opacity="0.3"/>
   <text fill="#24292e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">Beware: a colleague will suggest rewriting</tspan>
-    <tspan x="28" y="136">everything in Rust.</tspan>
+    <tspan x="28" y="116">The stars say: take a break. Close the laptop.</tspan>
+    <tspan x="28" y="136">Touch some grass.</tspan>
   </text>
   <line x1="28" y1="166" x2="452" y2="166" stroke="#0969da" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#4169E1" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky time: 2:00 AM</text>
+  <text fill="#FCC624" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky editor: the one you&#x27;re using</text>
 </svg>
