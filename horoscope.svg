@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="216" viewBox="0 0 496 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" viewBox="0 0 480 216">
   <defs>
     <linearGradient id="hgrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.95" />
     </linearGradient>
   </defs>
-  <rect fill="url(#hgrad)" width="496" height="216" rx="12" stroke="#d0d7de" stroke-width="1"/>
-  <text fill="#0969da" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="248" y="38">🔮 Developer Horoscope</text>
-  <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="248" y="74">
-    <tspan fill="#2496ED" font-size="20">♌</tspan>
-    <tspan fill="#24292e" font-size="15" font-weight="bold" dx="8">Su Docker</tspan>
+  <rect fill="url(#hgrad)" width="480" height="216" rx="12" stroke="#d0d7de" stroke-width="1"/>
+  <text fill="#0969da" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="240" y="38">🔮 Developer Horoscope</text>
+  <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="240" y="74">
+    <tspan fill="#DC382D" font-size="20">♋</tspan>
+    <tspan fill="#24292e" font-size="15" font-weight="bold" dx="8">Cua Redis</tspan>
   </text>
-  <line x1="28" y1="90" x2="468" y2="90" stroke="#0969da" stroke-width="1" opacity="0.3"/>
+  <line x1="28" y1="90" x2="452" y2="90" stroke="#0969da" stroke-width="1" opacity="0.3"/>
   <text fill="#24292e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">Your CI pipeline will pass, but only after the 4th</tspan>
-    <tspan x="28" y="136">retry.</tspan>
+    <tspan x="28" y="116">Today is a great day to learn a new language. Or</tspan>
+    <tspan x="28" y="136">just take a nap.</tspan>
   </text>
-  <line x1="28" y1="166" x2="468" y2="166" stroke="#0969da" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#2496ED" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="248" y="188">✨ Lucky command: git stash</text>
+  <line x1="28" y1="166" x2="452" y2="166" stroke="#0969da" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
+  <text fill="#DC382D" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky key: Ctrl+Z</text>
 </svg>
