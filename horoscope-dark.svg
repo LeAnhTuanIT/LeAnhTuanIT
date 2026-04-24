@@ -1,21 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="216" viewBox="0 0 496 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="487" height="196" viewBox="0 0 487 196">
   <defs>
     <linearGradient id="hgrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0.95" />
     </linearGradient>
   </defs>
-  <rect fill="url(#hgrad)" width="496" height="216" rx="12" stroke="#30363d" stroke-width="1"/>
-  <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="248" y="38">🔮 Developer Horoscope</text>
-  <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="248" y="74">
-    <tspan fill="#E0234E" font-size="20">♏</tspan>
-    <tspan fill="#c9d1d9" font-size="15" font-weight="bold" dx="8">Ho NestJS</tspan>
+  <rect fill="url(#hgrad)" width="487" height="196" rx="12" stroke="#30363d" stroke-width="1"/>
+  <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="243" y="38">🔮 Developer Horoscope</text>
+  <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="243" y="74">
+    <tspan fill="#3178C6" font-size="20">♓</tspan>
+    <tspan fill="#c9d1d9" font-size="15" font-weight="bold" dx="8">Ma TypeScript</tspan>
   </text>
-  <line x1="28" y1="90" x2="468" y2="90" stroke="#A9FEF7" stroke-width="1" opacity="0.3"/>
+  <line x1="28" y1="90" x2="459" y2="90" stroke="#A9FEF7" stroke-width="1" opacity="0.3"/>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">Today your code will compile on the first try. Buy</tspan>
-    <tspan x="28" y="136">a lottery ticket.</tspan>
+    <tspan x="28" y="116">Today is NOT the day to update your dependencies.</tspan>
   </text>
-  <line x1="28" y1="166" x2="468" y2="166" stroke="#A9FEF7" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#E0234E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="248" y="188">✨ Lucky framework: Next.js</text>
+  <line x1="28" y1="146" x2="459" y2="146" stroke="#A9FEF7" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
+  <text fill="#3178C6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="243" y="168">✨ Lucky status: 418 I&#x27;m a teapot</text>
 </svg>
