@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200" viewBox="0 0 460 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="478" height="200" viewBox="0 0 478 200">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0.95" />
     </linearGradient>
   </defs>
-  <rect fill="url(#grad)" width="460" height="200" rx="12" stroke="#30363d" stroke-width="1"/>
-  <text font-size="24" text-anchor="middle" x="230" y="48">&#128514;</text>
+  <rect fill="url(#grad)" width="478" height="200" rx="12" stroke="#30363d" stroke-width="1"/>
+  <text font-size="24" text-anchor="middle" x="239" y="48">&#128514;</text>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="500">
-    <tspan x="28" y="84">Why did the developer go broke?</tspan>
+    <tspan x="28" y="84">A SQL query walks into a bar, sees two tables...</tspan>
   </text>
-  <line x1="28" y1="118" x2="432" y2="118" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4" opacity="0.5"/>
+  <line x1="28" y1="118" x2="450" y2="118" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4" opacity="0.5"/>
   <text fill="#58a6ff" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="700" font-style="italic">
-    <tspan x="28" y="146">Because he used up all his cache.</tspan>
+    <tspan x="28" y="146">and asks: &#x27;Can I JOIN you?&#x27;</tspan>
   </text>
 </svg>
