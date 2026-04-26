@@ -8,14 +8,14 @@
   <rect fill="url(#hgrad)" width="480" height="216" rx="12" stroke="#30363d" stroke-width="1"/>
   <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="240" y="38">🔮 Developer Horoscope</text>
   <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="240" y="74">
-    <tspan fill="#3776AB" font-size="20">♒</tspan>
-    <tspan fill="#c9d1d9" font-size="15" font-weight="bold" dx="8">Massa Python</tspan>
+    <tspan fill="#DC382D" font-size="20">♋</tspan>
+    <tspan fill="#c9d1d9" font-size="15" font-weight="bold" dx="8">Cua Redis</tspan>
   </text>
   <line x1="28" y1="90" x2="452" y2="90" stroke="#A9FEF7" stroke-width="1" opacity="0.3"/>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">Today is a great day to learn a new language. Or</tspan>
-    <tspan x="28" y="136">just take a nap.</tspan>
+    <tspan x="28" y="116">Your pull request will be approved with zero</tspan>
+    <tspan x="28" y="136">comments. Legendary.</tspan>
   </text>
   <line x1="28" y1="166" x2="452" y2="166" stroke="#A9FEF7" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#3776AB" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky command: git stash</text>
+  <text fill="#DC382D" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky status: 418 I&#x27;m a teapot</text>
 </svg>
