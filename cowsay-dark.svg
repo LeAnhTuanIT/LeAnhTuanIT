@@ -3,8 +3,8 @@
   <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" x="225" y="36">~ Moo! Daily Dev Quote ~</text>
   <text fill="#58a6ff" font-family="'Courier New', Courier, monospace" font-size="14" xml:space="preserve">
     <tspan x="24" y="64"> ______________________________________________</tspan>
-    <tspan x="24" y="84">/ The best error message is the one that never \</tspan>
-    <tspan x="24" y="104">\ shows up. - Thomas Fuchs                     /</tspan>
+    <tspan x="24" y="84">/ Make it work, make it right, make it fast. - \</tspan>
+    <tspan x="24" y="104">\ Kent Beck                                    /</tspan>
     <tspan x="24" y="124"> ----------------------------------------------</tspan>
     <tspan x="24" y="144">        \   ^__^</tspan>
     <tspan x="24" y="164">         \  (oo)\_______</tspan>
