@@ -8,14 +8,14 @@
   <rect fill="url(#hgrad)" width="480" height="216" rx="12" stroke="#30363d" stroke-width="1"/>
   <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" x="240" y="38">🔮 Developer Horoscope</text>
   <text font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" x="240" y="74">
-    <tspan fill="#61DAFB" font-size="20">♈</tspan>
-    <tspan fill="#c9d1d9" font-size="15" font-weight="bold" dx="8">Bao React</tspan>
+    <tspan fill="#3178C6" font-size="20">♓</tspan>
+    <tspan fill="#c9d1d9" font-size="15" font-weight="bold" dx="8">Ma TypeScript</tspan>
   </text>
   <line x1="28" y1="90" x2="452" y2="90" stroke="#A9FEF7" stroke-width="1" opacity="0.3"/>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">Beware: a colleague will suggest rewriting</tspan>
-    <tspan x="28" y="136">everything in Rust.</tspan>
+    <tspan x="28" y="116">The coffee machine and your code will both work</tspan>
+    <tspan x="28" y="136">flawlessly today.</tspan>
   </text>
   <line x1="28" y1="166" x2="452" y2="166" stroke="#A9FEF7" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#61DAFB" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky drink: Double espresso</text>
+  <text fill="#3178C6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky drink: Double espresso</text>
 </svg>
