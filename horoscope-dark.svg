@@ -13,9 +13,9 @@
   </text>
   <line x1="28" y1="90" x2="452" y2="90" stroke="#A9FEF7" stroke-width="1" opacity="0.3"/>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">The universe grants you permission to delete</tspan>
-    <tspan x="28" y="136">legacy code. Go forth.</tspan>
+    <tspan x="28" y="116">A customer will report a bug that is actually a</tspan>
+    <tspan x="28" y="136">feature. You win.</tspan>
   </text>
   <line x1="28" y1="166" x2="452" y2="166" stroke="#A9FEF7" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#FCC624" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky port: 3000</text>
+  <text fill="#FCC624" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="240" y="188">✨ Lucky command: git stash</text>
 </svg>
