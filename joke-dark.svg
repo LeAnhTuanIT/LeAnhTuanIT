@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="513" height="222" viewBox="0 0 513 222">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="222" viewBox="0 0 460 222">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0.95" />
     </linearGradient>
   </defs>
-  <rect fill="url(#grad)" width="513" height="222" rx="12" stroke="#30363d" stroke-width="1"/>
-  <text font-size="24" text-anchor="middle" x="256" y="48">&#128514;</text>
+  <rect fill="url(#grad)" width="460" height="222" rx="12" stroke="#30363d" stroke-width="1"/>
+  <text font-size="24" text-anchor="middle" x="230" y="48">&#128514;</text>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="500">
-    <tspan x="28" y="84">Why did the developer become a DJ?</tspan>
+    <tspan x="28" y="84">Why do programmers always mix up Halloween and</tspan>
+    <tspan x="28" y="106">Christmas?</tspan>
   </text>
-  <line x1="28" y1="118" x2="485" y2="118" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4" opacity="0.5"/>
+  <line x1="28" y1="140" x2="432" y2="140" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4" opacity="0.5"/>
   <text fill="#58a6ff" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="700" font-style="italic">
-    <tspan x="28" y="146">Because he had mass appeal... I mean, mass a-peal...</tspan>
-    <tspan x="28" y="168">I mean, he was great at dropping tables.</tspan>
+    <tspan x="28" y="168">Because Oct 31 == Dec 25.</tspan>
   </text>
 </svg>

@@ -13,9 +13,9 @@
   </text>
   <line x1="28" y1="90" x2="459" y2="90" stroke="#0969da" stroke-width="1" opacity="0.3"/>
   <text fill="#24292e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14">
-    <tspan x="28" y="116">You will produce 3x more features than yesterday.</tspan>
-    <tspan x="28" y="136">Legendary energy!</tspan>
+    <tspan x="28" y="116">You will write documentation today. Just kidding.</tspan>
+    <tspan x="28" y="136">No one does that.</tspan>
   </text>
   <line x1="28" y1="166" x2="459" y2="166" stroke="#0969da" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <text fill="#3178C6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="243" y="188">✨ Lucky status: 418 I&#x27;m a teapot</text>
+  <text fill="#3178C6" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" text-anchor="middle" x="243" y="188">✨ Lucky port: 3000</text>
 </svg>
