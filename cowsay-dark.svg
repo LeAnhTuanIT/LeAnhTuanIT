@@ -3,8 +3,8 @@
   <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" x="238" y="36">~ Moo! Daily Dev Quote ~</text>
   <text fill="#58a6ff" font-family="'Courier New', Courier, monospace" font-size="14" xml:space="preserve">
     <tspan x="24" y="64"> _________________________________________________</tspan>
-    <tspan x="24" y="84">/ First, solve the problem. Then, write the code. \</tspan>
-    <tspan x="24" y="104">\ - John Johnson                                  /</tspan>
+    <tspan x="24" y="84">/ Truth can only be found in one place: the code. \</tspan>
+    <tspan x="24" y="104">\ - Robert C. Martin                              /</tspan>
     <tspan x="24" y="124"> -------------------------------------------------</tspan>
     <tspan x="24" y="144">        \   ^__^</tspan>
     <tspan x="24" y="164">         \  (oo)\_______</tspan>
