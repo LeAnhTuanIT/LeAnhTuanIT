@@ -20,7 +20,7 @@
 
 ```js
 const anhTuan = {
-    role:      "Fullstack Developer @ MiniAI",
+    role:      "Fullstack Developer @ DDO Solutions",
     code:      ["TypeScript", "JavaScript", "Python", "Java", "PHP"],
     focus:     ["AI Integration", "Cloud Architecture", "System Design", "Microservices"],
     learning:  ["LLM & AI Agents", "Advanced DevOps & K8s"],
