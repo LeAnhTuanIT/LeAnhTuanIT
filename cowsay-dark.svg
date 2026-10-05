@@ -1,16 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="468" height="284" viewBox="0 0 468 284">
-  <rect fill="#0d1117" width="468" height="284" rx="12" stroke="#30363d" stroke-width="1"/>
-  <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" x="234" y="36">~ Moo! Daily Dev Quote ~</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="264" viewBox="0 0 476 264">
+  <rect fill="#0d1117" width="476" height="264" rx="12" stroke="#30363d" stroke-width="1"/>
+  <text fill="#A9FEF7" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" x="238" y="36">~ Moo! Daily Dev Quote ~</text>
   <text fill="#58a6ff" font-family="'Courier New', Courier, monospace" font-size="14" xml:space="preserve">
-    <tspan x="24" y="64"> ________________________________________________</tspan>
-    <tspan x="24" y="84">/ Give a man a program, frustrate him for a day. \</tspan>
-    <tspan x="24" y="104">| Teach a man to program, frustrate him for a    |</tspan>
-    <tspan x="24" y="124">\ lifetime. - Muhammad Waseem                    /</tspan>
-    <tspan x="24" y="144"> ------------------------------------------------</tspan>
-    <tspan x="24" y="164">        \   ^__^</tspan>
-    <tspan x="24" y="184">         \  (oo)\_______</tspan>
-    <tspan x="24" y="204">            (__)\       )\/\</tspan>
-    <tspan x="24" y="224">                ||----w |</tspan>
-    <tspan x="24" y="244">                ||     ||</tspan>
+    <tspan x="24" y="64"> _________________________________________________</tspan>
+    <tspan x="24" y="84">/ Truth can only be found in one place: the code. \</tspan>
+    <tspan x="24" y="104">\ - Robert C. Martin                              /</tspan>
+    <tspan x="24" y="124"> -------------------------------------------------</tspan>
+    <tspan x="24" y="144">        \   ^__^</tspan>
+    <tspan x="24" y="164">         \  (oo)\_______</tspan>
+    <tspan x="24" y="184">            (__)\       )\/\</tspan>
+    <tspan x="24" y="204">                ||----w |</tspan>
+    <tspan x="24" y="224">                ||     ||</tspan>
   </text>
 </svg>
