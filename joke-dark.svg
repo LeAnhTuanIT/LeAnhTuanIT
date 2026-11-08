@@ -8,10 +8,10 @@
   <rect fill="url(#grad)" width="460" height="200" rx="12" stroke="#30363d" stroke-width="1"/>
   <text font-size="24" text-anchor="middle" x="230" y="48">&#128514;</text>
   <text fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="500">
-    <tspan x="28" y="84">How does a programmer open a jar?</tspan>
+    <tspan x="28" y="84">Why did the developer go broke?</tspan>
   </text>
   <line x1="28" y1="118" x2="432" y2="118" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4" opacity="0.5"/>
   <text fill="#58a6ff" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="15" font-weight="700" font-style="italic">
-    <tspan x="28" y="146">He installs Java.</tspan>
+    <tspan x="28" y="146">Because he used up all his cache.</tspan>
   </text>
 </svg>
